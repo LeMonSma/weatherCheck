@@ -1,0 +1,27 @@
+* {
+    font-family: 'Kanit', sans-serif;
+    color: black;
+    margin: 0;
+
+}
+
+body {
+    background: rgb(111, 171, 190);
+}
+
+header h1 {
+    color: white;
+    font-size: 60px;
+}
+
+.card-header {
+    font-size: 25px;
+}
+
+.form-title {
+    font-size: 1.4em;
+}
+
+.card {
+    width: 100%;
+}
